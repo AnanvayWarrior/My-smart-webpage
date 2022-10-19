@@ -1,0 +1,14 @@
+#App{
+background-color: aqua;
+}
+
+.line{
+    background-color: azure;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body{
+    text-align: center;
+}
